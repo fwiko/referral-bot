@@ -1,0 +1,32 @@
+{
+    "bot": {
+        "prefix": "!",
+        "status": "on Discord",
+        "extensions": [
+            "referrals",
+            "events",
+            "statistics",
+            "error_handler"
+        ],
+        "token": ""
+    },
+    "embed": {
+        "success_colour": 1366824,
+        "error_colour": 14360852
+    },
+    "permissions": {
+        "admin_roles": [909009961571459072],
+        "verified_role": 699246036459192361,
+        "reward_role": 897515464761176085,
+        "guild_id": 897057509167206451
+    },
+    "channels": {
+        "referral_channel": 909060317370265622
+    },
+    "referrals": {
+        "reward_points": 25,
+        "referral_points": 5,
+        "descendant_points": 2,
+        "code_length": 6
+    }
+}
